@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023151556971",
+    "project_id": "todo-memo-app-6b771",
+    "storage_bucket": "todo-memo-app-6b771.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023151556971:android:367e7ecacc67b3e4c8642e",
+        "android_client_info": {
+          "package_name": "com.study.todo_memo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh0InNFpLWkCf9HA_feDzkHWDngZv_tuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
